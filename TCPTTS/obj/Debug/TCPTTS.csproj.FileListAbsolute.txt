@@ -1,0 +1,17 @@
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\TCPTTS.exe.config
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\TCPTTS.exe
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\TCPTTS.pdb
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\SimpleTCP.dll
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.Form1.resources
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.Properties.Resources.resources
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.csproj.GenerateResource.cache
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.csproj.CopyComplete
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.exe
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.pdb
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\WriteLogIn.dll
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\WriteLogIn.pdb
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.csprojAssemblyReference.cache
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\bin\Debug\zh-Hant\TCPTTS.resources.dll
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\TCPTTS.Form1.zh-Hant.resources
+C:\Users\Albert\source\repos\TCPTTS\TCPTTS\obj\Debug\zh-Hant\TCPTTS.resources.dll
